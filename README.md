@@ -1,2 +1,4 @@
-# TSE - Project 1 branch
-Mantains Project 1 related source code and content
+# TSE - Base Repo Master Branch 
+Mantains two branchses: 
++ TSE-proj1
++ TSE-proj2
